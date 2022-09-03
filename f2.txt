@@ -1,5 +1,3 @@
 abc
-efgh
-ijk
-oooo
+ccccccc
 zzzzzz
